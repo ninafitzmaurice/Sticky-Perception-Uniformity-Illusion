@@ -4,6 +4,8 @@
 
     This code runs an experiment which investigates the effect of perceptual
     'stickiness' following exposure to the uniformity illusion
+
+    Can only be run in psychopy IDE
     
     If you want to read my thesis to get more information about the experiment contact me :D
     
